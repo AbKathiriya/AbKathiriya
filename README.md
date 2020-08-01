@@ -1,4 +1,4 @@
-<img src="./akash.jpeg" align='right' />
+<img src="./akash.png" align='right' width="200"/>
 
 ### Hi there 👋 I'm Akash Kathiriya
 
