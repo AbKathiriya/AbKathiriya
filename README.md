@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Akash Kathiriya
 
 <p>
-  <em>Software Enginner at <a href="https://redbus.com">redBus</a></em>
+  <em>Software Enginner at <a href="https://redbus.com">redBus</a> <img src="https://github.com/AbKathiriya/AbKathiriya/blob/master/Bus.gif" width="40" /></em>
 </p>
 
 ```javascript
