@@ -1,3 +1,5 @@
+<img src="./akash.jpeg" align='right' />
+
 ### Hi there 👋 I'm Akash Kathiriya
 
 <p>
