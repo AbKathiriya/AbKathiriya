@@ -9,8 +9,20 @@
 ```javascript
 const akashk = {
   pronouns: "he" | "him",
-  code: [Javascript, C#, Python],
-  tools: [React, Redux, Node, Storybook, Styled-Components, .NET Core]],
+  technologies: {
+        frontEnd: {
+            js: ["React", "Redux", "Storybook", "Styled-Components"],
+            css: ["scss", "Material", "Bootstrap", "Semantic"],
+            html: ["Razor", "Handlebars", "EJS", "HTML5"]
+        },
+        backEnd: {
+            c#: [".NET Core"],
+            js: ["Node", "Express", "Koa"],
+            python: ["Flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Nginx"],
+        databases: ["MongoDB", "MySQL"]
+    }
 }
 
 export default akashk
