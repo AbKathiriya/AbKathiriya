@@ -1,4 +1,4 @@
-<img src="./akash.png" align='right' width="200"/>
+<img src="https://github.com/AbKathiriya/AbKathiriya/blob/master/akash.png" align='right' width="200"/>
 
 ### Hi there 👋 I'm Akash Kathiriya
 
