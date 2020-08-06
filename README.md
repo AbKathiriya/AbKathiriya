@@ -35,9 +35,12 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 July, 2020 - 04 August, 2020
+Week: 29 July, 2020 - 05 August, 2020
 
-C#     1 hr 51 mins    ████████████████████████░   99.49 % 
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+C#           3 hrs 11 mins   ██████████████████████░░░   90.12 % 
+JavaScript   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+JSX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 <!--END_SECTION:waka-->
