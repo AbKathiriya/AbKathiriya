@@ -35,12 +35,12 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2020 - 12 September, 2020
+Week: 06 September, 2020 - 13 September, 2020
 
-C#           6 hrs 40 mins   ████████████▓░░░░░░░░░░░░   50.63 % 
-JavaScript   4 hrs 55 mins   █████████▒░░░░░░░░░░░░░░░   37.40 % 
-JSX          1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-JSON         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-CSHTML       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+C#           6 hrs 40 mins   ████████████▒░░░░░░░░░░░░   49.57 % 
+JavaScript   4 hrs 59 mins   █████████▒░░░░░░░░░░░░░░░   37.15 % 
+JSX          1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+CSHTML       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
