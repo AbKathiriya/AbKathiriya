@@ -35,7 +35,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2020 - 09 October, 2020
+Week: 03 October, 2020 - 10 October, 2020
 
 C#           1 hr 53 mins    █████████████░░░░░░░░░░░░   51.99 % 
 JavaScript   50 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.25 % 
