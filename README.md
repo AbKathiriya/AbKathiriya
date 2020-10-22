@@ -35,10 +35,9 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2020 - 20 October, 2020
+Week: 14 October, 2020 - 21 October, 2020
 
-JSX          21 mins         ████████████████████░░░░░   79.73 % 
-JavaScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Git Config   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JSX          18 mins         █████████████████████░░░░   84.32 % 
+JavaScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 ```
 <!--END_SECTION:waka-->
