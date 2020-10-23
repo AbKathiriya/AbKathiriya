@@ -35,9 +35,9 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2020 - 21 October, 2020
+Week: 15 October, 2020 - 22 October, 2020
 
-JSX          18 mins         █████████████████████░░░░   84.32 % 
-JavaScript   3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+JSX          17 mins         █████████████████████░░░░   84.00 % 
+JavaScript   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 <!--END_SECTION:waka-->
