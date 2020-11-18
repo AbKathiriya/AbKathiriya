@@ -35,6 +35,8 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 10 November, 2020 - 17 November, 2020
+
+JavaScript   11 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
