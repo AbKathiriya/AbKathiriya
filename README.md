@@ -35,12 +35,11 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2020 - 25 November, 2020
+Week: 19 November, 2020 - 26 November, 2020
 
-JavaScript   4 hrs 55 mins   ████████████████████▓░░░░   83.33 % 
-JSON         39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-JSX          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JavaScript   5 hrs 2 mins    █████████████████████▓░░░   86.36 % 
+JSON         39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+JSX          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
