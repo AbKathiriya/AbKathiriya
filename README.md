@@ -35,7 +35,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2020 - 05 December, 2020
+Week: 29 November, 2020 - 06 December, 2020
 
 JavaScript   3 hrs 50 mins   ███████████████████▓░░░░░   78.67 % 
 CSS          31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
