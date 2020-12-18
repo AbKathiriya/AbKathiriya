@@ -35,11 +35,11 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2020 - 16 December, 2020
+Week: 10 December, 2020 - 17 December, 2020
 
-JavaScript   2 hrs 41 mins   ███████████████████░░░░░░   76.46 % 
-JSON         24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-JSX          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-HTML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript   3 hrs 18 mins   ████████████████████░░░░░   79.97 % 
+JSON         24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JSX          17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+HTML         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
