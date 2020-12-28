@@ -35,7 +35,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2020 - 26 December, 2020
+Week: 20 December, 2020 - 27 December, 2020
 
 YAML         17 mins         ██████████████▒░░░░░░░░░░   57.93 % 
 Other        5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.29 % 
