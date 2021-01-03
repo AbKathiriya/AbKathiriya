@@ -35,7 +35,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2020 - 01 January, 2021
+Week: 26 December, 2020 - 02 January, 2021
 
 JavaScript   4 hrs 16 mins   ████████████████████▓░░░░   83.15 % 
 CSS          44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
