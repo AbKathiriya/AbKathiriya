@@ -35,10 +35,8 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
-JavaScript   10 hrs 8 mins   █████████████████████████   99.41 % 
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+JavaScript   8 hrs 42 mins   █████████████████████████   99.73 % 
 ```
 <!--END_SECTION:waka-->
