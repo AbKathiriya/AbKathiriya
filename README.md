@@ -35,11 +35,11 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 March, 2021 - 22 March, 2021
+Week: 16 March, 2021 - 23 March, 2021
 
-JavaScript   6 hrs 37 mins   █████████████████████▒░░░   85.67 % 
-HTML         40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Solidity     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JavaScript   5 hrs 9 mins    ████████████████████▓░░░░   82.31 % 
+HTML         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Solidity     12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 <!--END_SECTION:waka-->
