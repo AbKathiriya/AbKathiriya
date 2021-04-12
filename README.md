@@ -35,7 +35,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 April, 2021 - 10 April, 2021
+Week: 04 April, 2021 - 11 April, 2021
 
 JavaScript   13 hrs 17 mins  █████████████████████░░░░   84.06 % 
 CSS          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
