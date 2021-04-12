@@ -21,7 +21,8 @@ const akashk = {
             python: ["Flask"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["MongoDB", "MySQL"]
+        databases: ["MongoDB", "MySQL"],
+        blockchain: ["Truffle", "Solidity", "Web3JS", "ERC20", "ERC721"]
     }
 }
 
