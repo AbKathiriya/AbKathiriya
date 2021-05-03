@@ -36,7 +36,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 April, 2021 - 01 May, 2021
+Week: 25 April, 2021 - 02 May, 2021
 
 JavaScript   3 hrs 56 mins   ████████████████████████▒   97.93 % 
 Solidity     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
