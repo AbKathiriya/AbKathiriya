@@ -36,10 +36,11 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 May, 2021 - 25 May, 2021
+Week: 19 May, 2021 - 26 May, 2021
 
-TypeScript   9 hrs 59 mins   ████████████▓░░░░░░░░░░░░   51.30 % 
-Solidity     4 hrs 47 mins   ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-JavaScript   4 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+TypeScript   8 hrs 56 mins   ████████████░░░░░░░░░░░░░   47.88 % 
+JavaScript   5 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Solidity     4 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
