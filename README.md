@@ -36,7 +36,7 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 May, 2021 - 29 May, 2021
+Week: 23 May, 2021 - 30 May, 2021
 
 TypeScript   6 hrs 22 mins   ███████████░░░░░░░░░░░░░░   44.56 % 
 JavaScript   5 hrs 44 mins   ██████████░░░░░░░░░░░░░░░   40.13 % 
