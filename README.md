@@ -36,12 +36,12 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2021 - 01 July, 2021
+Week: 26 June, 2021 - 02 July, 2021
 
-TypeScript   1 hr 7 mins     ██████████▓░░░░░░░░░░░░░░   42.49 % 
-JavaScript   46 mins         ███████▒░░░░░░░░░░░░░░░░░   29.58 % 
-YAML         16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-HTML         14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-JSON         8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JavaScript   1 hr 29 mins    ██████████▓░░░░░░░░░░░░░░   43.23 % 
+TypeScript   1 hr 7 mins     ████████░░░░░░░░░░░░░░░░░   32.63 % 
+YAML         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+HTML         16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+CSS          9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 ```
 <!--END_SECTION:waka-->
