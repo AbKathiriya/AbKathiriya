@@ -36,11 +36,11 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 July, 2021 - 14 July, 2021
+Week: 09 July, 2021 - 15 July, 2021
 
-JavaScript   7 hrs 37 mins   █████████████████████▒░░░   85.70 % 
-CSS          59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+JavaScript   8 hrs 10 mins   █████████████████████▓░░░   86.46 % 
+CSS          59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+JSON         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 <!--END_SECTION:waka-->
