@@ -36,8 +36,8 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 July, 2021 - 22 July, 2021
+Week: 17 July, 2021 - 23 July, 2021
 
-JavaScript   5 hrs 8 mins    █████████████████████████   99.98 % 
+JavaScript   6 hrs 34 mins   █████████████████████████   99.98 % 
 ```
 <!--END_SECTION:waka-->
