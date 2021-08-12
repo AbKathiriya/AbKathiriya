@@ -36,6 +36,8 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 August, 2021 - 11 August, 2021
+
+JavaScript   19 mins         ████████████████████████▒   97.68 % 
 ```
 <!--END_SECTION:waka-->
