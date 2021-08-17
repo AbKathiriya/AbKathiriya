@@ -36,8 +36,8 @@ export default akashk
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 August, 2021 - 15 August, 2021
+Week: 10 August, 2021 - 16 August, 2021
 
-JavaScript   2 hrs 51 mins   ████████████████████████▓   99.31 % 
+JavaScript   1 hr 1 min      ████████████████████████▓   99.27 % 
 ```
 <!--END_SECTION:waka-->
